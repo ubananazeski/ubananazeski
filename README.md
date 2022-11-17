@@ -1,7 +1,7 @@
 # Hi! I'm Gabriel 👋
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ubananazeski&show_icons=true&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubananazeski&layout=compact&theme=tokyonight"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=ubananazeski&show_icons=true&theme=tokyonight"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubananazeski&layout=compact&theme=tokyonight"/>
 </div>
 
 ## I'm a Developer and Gamer!!
